@@ -41,3 +41,30 @@
 .carousel-indicators .active {
   background: #ec4b05 !important;
 }
+.album {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.frame {
+  width: 202px;
+  height: auto;
+  border-radius: 10px;
+  /* border: 2px solid red; */
+  position: relative;
+  margin: 10px;
+  overflow: hidden;
+}
+
+.photo img {
+  width: 100%;
+  border-radius: 10px;
+
+}
+
+
+
+
+
+
