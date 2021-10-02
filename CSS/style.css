@@ -59,6 +59,15 @@ body {
   margin: 10px;
   overflow: hidden;
 }
+.articles-frame {
+  width: 258px;
+  height: auto;
+  /* border-radius: 10px; */
+  /* border: 2px solid red; */
+  position: relative;
+  margin: 10px;
+  overflow: hidden;
+}
 
 .photo img {
   width: 100%;
